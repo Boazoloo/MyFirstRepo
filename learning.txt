@@ -1,0 +1,1 @@
+I have learned how to use Git and GitHub to manage repositories, create branches, commit changes, and collaborate through pull requests. This course helped me understand version control and teamwork.
