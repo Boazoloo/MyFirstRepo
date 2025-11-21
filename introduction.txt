@@ -1,1 +1,5 @@
-Hello! My name is Boaz. I'm learning how to use Git and GitHub as part of my development journey. I'm excited to explore version control and collaborate on projects.
+Brief Introduction About Myself
+
+My name is Boaz, and I am currently learning Git and GitHub to improve my version control and development workflow. I enjoy exploring new technologies and building skills that will help me in future projects and opportunities.
+
+In my free time, I like experimenting with automation, coding, and solving technical problems. This course has been a great opportunity to understand how real-world collaboration works with Git and GitHub.
